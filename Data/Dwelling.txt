@@ -1,0 +1,140 @@
+Stražarnica	The Guardhouse allows you to recruit Pikemen.
+Strelište	The Archers' Tower allows you to recruit Archers.
+Gnezdilište	The Griffin Tower allows you to recruit Griffins.
+Kasarna	The Barracks allow you to recruit Swordsmen.
+Manastir	The Monastery allows you to recruit Monks.
+Jahalište	The Training Grounds allow you to recruit Cavaliers.
+Sveta kapija	The Portal of Glory allows you to recruit Angels.
+Nap. Stražarnica	The Guardhouse allows you to recruit Halberdiers.
+Nap. Strelište	The Archers' Tower allows you to recruit Marksmen.
+Nap. Gnezdilište	The Griffin Tower allows you to recruit Royal Griffins.
+Nap. Kasarna	The Barracks allow you to recruit Crusaders.
+Nap. Manastir	The Monastery allows you to recruit Zealots.
+Nap. Jahalište	The Training Grounds allow you to recruit Champions.
+Presveta kapija	The Portal of Glory allows you to recruit Arch Angels.
+Konjušnica	The Centaur Stables allow you to recruit Centaurs.
+Zemunica	The Dwarf Cottage allows you to recruit Dwarves.
+Ognjište	The Homestead allows you to recruit Wood Elves.
+Zacarani izvor	The Enchanted Spring allows you to recruit Pegasi.
+Šumski svod	The Dendroid Arches allow you to recruit Dendroid Guards.
+Rajski proplanak	The Unicorn Glade allows you to recruit Unicorns.
+Zmajev obron	The Dragon Cliffs allow you to recruit Green Dragons.
+Nap. Konjušnica	The Centaur Stables allow you to recruit Centaur Captains.
+Nap. Zemunica	The Dwarf Cottage allows you to recruit Battle Dwarves.
+Nap. Ognjište	The Homestead allows you to recruit Grand Elves.
+Nap. Zacarani izvor	The Enchanted Spring allows you to recruit Silver Pegasi.
+Nap. Šumski svod	The Dendroid Arches allow you to recruit Dendroid Soldiers.
+Nap. Rajski proplanak	The Unicorn Glade allows you to recruit War Unicorns.
+Nap. Zmajev obron	The Dragon Cliffs allow you to recruit Gold Dragons.
+Radionica	The Workshop allows you to recruit Gremlins.
+Parapet	The Parapet allows you to recruit Stone Gargoyles.
+Tvornica ljudi	The Golem Factory allows you to recruit Stone Golems.
+Toranj vradžbina	The Mage Tower allows you to recruit Magi.
+Oltar želja	The Altar of Wishes allows you to recruit Genies.
+Zlatni paviljon	The Golden Pavilion allows you to recruit Nagas.
+Nebeski hram	The Cloud Temple allows you to recruit Giants.
+Nap. Radionica	The Workshop allows you to recruit Master Gremlins.
+Nap. Parapet	The Parapet allows you to recruit Obsidian Gargoyles.
+Nap. Tvornica ljudi	The Golem Factory allows you to recruit Iron Golems.
+Nap. Toranj vradžbina	The Mage Tower allows you to recruit Arch Magi.
+Nap. Oltar želja	The Altar of Wishes allows you to recruit Master Genies.
+Nap. Zlatni paviljon	The Golden Pavilion allows you to recruit Naga Queens.
+Nap. Nebeski hram	The Cloud Temple allows you to recruit Titans.
+Vražja kupela	The Imp Crucible allows you to recruit Imps.
+Dvorana greha	The Hall of Sins allows you to recruit Gogs.
+Psetarnik	The Kennels allow you to recruit Hell Hounds.
+Demonska kapija	The Demon Gate allows you to recruit Demons.
+Jama bede	The Hell Hole allows you to recruit Pit Fiends.
+Vatreno jezero	The Fire Lake allows you to recruit Efreet.
+Palata Izgnanika	The Forsaken Palace allows you to recruit Devils.
+Nap. Vražja kupela	The Imp Crucible allows you to recruit Familiars.
+Nap. Dvorana greha	The Hall of Sins allows you to recruit Magogs.
+Nap. Psetarnik	The Kennels allow you to recruit Cerberi.
+Nap. Demonska kapija	The Demon Gate allows you to recruit Horned Demons.
+Nap. Jama bede	The Hell Hole allows you to recruit Pit Lords.
+Nap. Vatreno jezero	The Fire Lake allows you to recruit Efreet Sultans.
+Nap. Palata Izgnanika	The Forsaken Palace allows you to recruit Arch Devils.
+Pogani hram	The Cursed Temple allows you to recruit Skeletons.
+Groblje	The Graveyard allows you to recruit Walking Dead.
+Grobnica duša	The Tomb of Souls allows you to recruit Wights.
+Ukleta avlija	The Estate allows you to recruit Vampires.
+Mauzolej	The Mausoleum allows you to recruit Liches.
+Dvorana tame	The Hall of Darkness allows you to recruit Black Knights.
+Zmajeva kosturnica	The Dragon Vault allows you to recruit Bone Dragons.
+Nap. Pogani hram	The Cursed Temple allows you to recruit Skeleton Warriors.
+Nap. Groblje	The Graveyard allows you to recruit Zombies.
+Nap. Grobnica duša	The Tomb of Souls allows you to recruit Wraiths.
+Nap. Ukleta avlija	The Estate allows you to recruit Vampire Lords.
+Nap. Mauzolej	The Mausoleum allows you to recruit Power Liches.
+Nap. Dvorana tame	The Hall of Darkness allows you to recruit Dread Knights.
+Nap. Zmajeva kosturnica	The Dragon Vault allows you to recruit Ghost Dragons.
+Lavorište	The Warren allows you to recruit Troglodytes.
+Leglo harpija	The Harpy Loft allows you to recruit Harpies.
+Sveocilište	The Pillar of Eyes allows you to recruit Beholders.
+Kapela utihnutih glasova	The Chapel of Stilled Voices allows you to recruit Medusas.
+Lavirint	The Labyrinth allows you to recruit Minotaurs.
+Mantikorin brlog	The Manticore Lair allows you to recruit Manticores.
+Zmajeva pecina	The Dragon Cave allows you to recruit Red Dragons.
+Nap. Lavorište	The Warren allows you to recruit Infernal Troglodytes.
+Nap. Leglo harpija	The Harpy Loft allows you to recruit Harpy Hags.
+Nap. Sveocilište	The Pillar of Eyes allows you to recruit Evil Eyes.
+Nap. Kapela utihnutih glasova	The Chapel of Stilled Voices allows you to recruit Medusa Queens.
+Nap. Lavirint	The Labyrinth allows you to recruit Minotaur Kings.
+Nap. Mantikorin brlog	The Manticore Lair allows you to recruit Scorpicores.
+Nap. Zmajeva pecina	The Dragon Cave allows you to recruit Black Dragons.
+Goblinji tabor	The Goblin Barracks allow you to recruit Goblins.
+Leglo vukova	The Wolf Pen allows you to recruit Wolf Riders.
+Orkovski toranj	The Orc Tower allows you to recruit Orcs.
+Utvrda gorostasa	The Ogre Fort allows you to recruit Ogres.
+Pticja hrid	The Cliff Nest allows you to recruit Rocs.
+Kiklopska jazbina	The Cyclops Cave allows you to recruit Cyclopses.
+Sablasna pecina	The Behemoth Lair allows you to recruit Behemoths.
+Nap. Goblinji tabor	The Goblin Barracks allow you to recruit Hobgoblins.
+Nap. Leglo vukova	The Wolf Pen allows you to recruit Wolf Raiders.
+Nap. Orkovski toranj	The Orc Tower allows you to recruit Orc Chieftains.
+Nap. Utvrda gorostasa	The Ogre Fort allows you to recruit Ogre Magi.
+Nap. Pticja hrid	The Cliff Nest allows you to recruit Thunderbirds.
+Nap. Kiklopska jazbina	The Cyclops Cave allows you to recruit Cyclops Kings.
+Nap. Sablasna pecina	The Behemoth Lair allows you to recruit Ancient Behemoths.
+Gnolograd	The Gnoll Hut allows you to recruit Gnolls.
+Jazbina zmijolikih	The Lizard Den allows you to recruit Lizardmen.
+Zmijsko leglo	The Serpent Fly Hive allows you to recruit Serpent Flies.
+Jama baziliska	The Basilisk Pit allows you to recruit Basilisks.
+Brlog Vodenog bika	The Gorgon Lair allows you to recruit Gorgons.
+Alinjak	The Wyvern Nest allows you to recruit Wyverns.
+Aždajin rit	The Hydra Pond allows you to recruit Hydras.
+Nap. Gnolograd	The Gnoll Hut allows you to recruit Gnoll Marauders.
+Nap. Jazbina zmijolikih	The Lizard Den allows you to recruit Lizard Warriors.
+Nap. Zmijsko leglo	The Serpent Fly Hive allows you to recruit Dragon Flies.
+Nap. Jama baziliska	The Basilisk Pit allows you to recruit Greater Basilisks.
+Nap. Gorgon Lair	The Gorgon Lair allows you to recruit Mighty Gorgons.
+Nap. Wyvern Nest	The Wyvern Nest allows you to recruit Wyvern Monarchs.
+Nap. Hydra Pond	The Hydra Pond allows you to recruit Chaos Hydras.
+Carobni fenjer	The Magic Lantern allows you to recruit Pixies.
+Vazdušni oltar	The Altar of Air allows you to recruit Air Elementals.
+Vodeni oltar	The Altar of Water allows you to recruit Water Elementals.
+Vatreni oltar	The Altar of Fire allows you to recruit Fire Elementals.
+Zemljani oltar	The Altar of Earth allows you to recruit Earth Elementals.
+Duhovni oltar	The Altar of Thought allows you to recruit Psychic Elementals.
+Usijana lomaca	The Pyre allows you to recruit Fire Birds.
+Nap. Carobni fenjer	The Magic Pool allows you to recruit Sprites.
+Nap. Vazdušni oltar	The Temple of Thunder allows you to recruit Storm Elementals.
+Nap. Vodeni oltar	The Temple of Ice allows you to recruit Ice Elementals.
+Nap. Vatreni oltar	The Temple of Energy allows you to recruit Energy Elementals.
+Nap. Zemljani oltar	The Temple of Magma allows you to recruit Magma Elementals.
+Nap. Duhovni oltar	The Temple of Magic allows you to recruit Magic Elementals.
+Nap. Usijana lomaca	The Funeral Pyre allows you to recruit Pheonixes .
+Level 1 Creature Generator	Allows you to recruit Level 1 Creatures.
+Level 2 Creature Generator	Allows you to recruit Level 2 Creatures.
+Level 3 Creature Generator	Allows you to recruit Level 3 Creatures.
+Level 4 Creature Generator	Allows you to recruit Level 4 Creatures.
+Level 5 Creature Generator	Allows you to recruit Level 5 Creatures.
+Level 6 Creature Generator	Allows you to recruit Level 6 Creatures.
+Level 7 Creature Generator	Allows you to recruit Level 7 Creatures.
+Upg. Level 1 Creature Generator	Allows you to recruit Upgraded Level 1 Creatures.
+Upg. Level 2 Creature Generator	Allows you to recruit Upgraded Level 2 Creatures.
+Upg. Level 3 Creature Generator	Allows you to recruit Upgraded Level 3 Creatures.
+Upg. Level 4 Creature Generator	Allows you to recruit Upgraded Level 4 Creatures.
+Upg. Level 5 Creature Generator	Allows you to recruit Upgraded Level 5 Creatures.
+Upg. Level 6 Creature Generator	Allows you to recruit Upgraded Level 6 Creatures.
+Upg. Level 7 Creature Generator	Allows you to recruit Upgraded Level 7 Creatures.

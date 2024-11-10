@@ -1,0 +1,7 @@
+Veština napada
+Veština odbrane
+Jacina udarca
+Zdravlje
+Brzina
+Nedeljni priliv
+Exit %s

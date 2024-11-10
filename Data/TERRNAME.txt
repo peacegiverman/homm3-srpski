@@ -1,0 +1,10 @@
+Zemlja
+Pustinja
+Trava
+Sneg
+Močvara
+Krš
+Podzemlje
+Lava
+Voda
+Kamenje
