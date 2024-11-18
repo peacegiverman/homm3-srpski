@@ -396,7 +396,7 @@ There are no boats to summon.
 "%s, Level %d"
 The Shackles of War are present.  %s can not retreat!
 The Shackles of War are present.  %s can not surrender!
-Level %d %s
+%d. nivo - %s
 "
 Does %d points of damage."
 Free

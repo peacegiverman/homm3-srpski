@@ -1,0 +1,33 @@
+Pregledaj spisak potraga
+Šta je %s
+Additional Hero Characteristics
+View Good Morale Info
+View Neutral Morale Info
+View Bad Morale Info
+View Good Luck Info
+View Neutral Luck Info
+View Bad Luck Info
+View Experience Info
+%s
+Prazno
+%s na ovo mesto
+%s i %s da zamene mesta
+Vidi èarolije
+View %s Info
+Otpusti heroja (%s, %s)
+Zatvori prozor o heroju
+Hero Screen
+%s da se spoje
+%s da se podele
+Šta je %s %s
+Detalji o magijskim bodovima
+Postavi vojnu formaciju na 'Široku'
+Postavi vojnu formaciju na 'Zbijenu'
+Ukljuèi taktièku formaciju
+Iskljuèi taktièku formaciju
+Više o specijalnosti...
+Click to dismiss this hero
+Setting combat formation to 'Loose' will spread your troops across your side of the battlefield at the start of combat
+Setting combat formation to 'Tight' will group your troops together on your side of the battlefield at the start of combat
+Enabling Tactics formation will allow you to arrange your troops prior to combat (must have the Tactics skill)
+Click to divide these creatures into two stacks

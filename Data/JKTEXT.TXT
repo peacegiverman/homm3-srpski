@@ -5,11 +5,11 @@ Odbrana
 Znanje
 {Specijalnost}
 {Iskustvo}
-{Spell Points}
-"Quest
-Log"
+{Magija}
+"Pregled
+potraga"
 "Otpusti
-Heroja"
+heroja"
 Overview Window
 Gold Per Day:
 Shipyard Window
