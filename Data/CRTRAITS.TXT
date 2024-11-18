@@ -9,10 +9,10 @@ Kraljevski grifon	Kraljevski grifoni	0	0	0	0	0	0	240	364	448	7	3	25	9	9	9	3	6	0	
 Jurišnik	Jurišnici	0	0	0	0	0	0	300	445	445	4	0	35	5	10	12	6	9	0	0	10	20		0
 Krstaš	Krstaši	0	0	0	0	0	0	400	588	588	4	0	35	6	12	12	7	10	0	0	10	16	Strikes twice.	const_two_attacks
 Monah	Monasi	0	0	0	0	0	0	400	485	485	3	0	30	5	12	7	10	12	12	0	8	16		SHOOTING_ARMY
-Zduhac	Zduhac	0	0	0	0	0	0	450	500	750	3	0	30	7	12	10	10	12	24	0	8	12	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
+Zduhaæ	Zduhaæi	0	0	0	0	0	0	450	500	750	3	0	30	7	12	10	10	12	24	0	8	12	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
 Delija	Delije	0	0	0	0	0	0	1000	1668	1946	2	0	100	7	15	15	15	25	0	0	5	12	Jousting bonus.	DOUBLE_WIDE | const_jousting
 Vitez	Vitezovi	0	0	0	0	0	0	1200	1800	2100	2	0	100	9	16	16	20	25	0	0	5	10	Jousting bonus.	DOUBLE_WIDE | const_jousting
-Andeo	Angeli	0	0	0	0	0	1	3000	3585	5019	1	0	200	12	20	20	50	50	0	0	4	10	Hates Devils.	FLYING_ARMY | const_raises_morale | KING_2
+Anðeo	Angeli	0	0	0	0	0	1	3000	3585	5019	1	0	200	12	20	20	50	50	0	0	4	10	Hates Devils.	FLYING_ARMY | const_raises_morale | KING_2
 Arhangel	Arhangeli	0	0	0	0	0	3	5000	6033	8776	1	0	250	18	30	30	50	50	0	1	3	8	"+1 morale.  Hates Devils.
 Resurrects allies."	DOUBLE_WIDE | FLYING_ARMY | const_raises_morale | KING_2
 																								
@@ -39,14 +39,14 @@ Gremlin	Gremlini	0	0	0	0	0	0	30	55	44	16	0	4	4	3	3	1	2	0	0	20	50		0
 Kadar gremlin	Kadri gremlini	0	0	0	0	0	0	40	55	66	16	0	4	5	4	4	1	2	8	0	20	30	Ranged attacker.	SHOOTING_ARMY
 Kamena vodoriga	Kamene vodorige	0	0	0	0	0	0	130	150	165	9	4	16	6	6	6	2	3	0	0	16	30		FLYING_ARMY
 Granitna vodoriga	Granitne vodorige	0	0	0	0	0	0	160	155	201	9	4	16	9	7	7	2	3	0	0	16	25		FLYING_ARMY
-Kameni covek	Kameni ljudi	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	Damage from spells reduced 50%.	0
-Gvozdeni covek	Gvozdeni ljudi	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	Damage from spells reduced 75%.	0
-Caralac	Caraoci	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	"No melee penalty.
+Kameni èovek	Kameni ljudi	0	0	0	0	0	0	150	339	250	6	0	30	3	7	10	4	5	0	0	12	25	Damage from spells reduced 50%.	0
+Gvozdeni èovek	Gvozdeni ljudi	0	0	0	0	0	0	200	412	412	6	0	35	5	9	10	4	5	0	0	12	20	Damage from spells reduced 75%.	0
+Èaralac	Èaraoci	0	0	0	0	0	0	350	418	570	4	0	25	5	11	8	7	9	24	0	10	20	"No melee penalty.
 Hero spells cost less."	SHOOTING_ARMY | const_no_melee_penalty
-Cudotvorac	Cudotvorci	0	0	0	0	0	0	450	467	680	4	0	30	7	12	9	7	9	24	0	10	16	"No melee penalty.
+Èudotvorac	Èudotvorci	0	0	0	0	0	0	450	467	680	4	0	30	7	12	9	7	9	24	0	10	16	"No melee penalty.
 Hero spells cost less."	SHOOTING_ARMY | const_no_melee_penalty | const_no_wall_penalty
 Dobri duh	Dobri duhovi	0	0	0	0	0	0	550	680	884	3	0	40	7	12	12	13	16	0	0	8	16	Hates Efreet.	FLYING_ARMY
-Carobni duh	Carobni duhovi	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	12	"Spellcaster: Random benefit.
+Èarobni duh	Èarobni duhovi	0	0	0	0	0	0	600	748	942	3	0	40	11	12	12	13	16	0	3	8	12	"Spellcaster: Random benefit.
 Hates Efreet."	FLYING_ARMY
 Naga	Nage	0	0	0	0	0	0	1100	2016	2016	2	0	110	5	16	13	20	20	0	0	5	12	No enemy retaliation.	DOUBLE_WIDE
 Naga kraljica	Kraljice naga	0	0	0	0	0	0	1600	2485	2840	2	0	110	7	16	13	30	30	0	0	5	10	No enemy retaliation.	DOUBLE_WIDE
@@ -59,7 +59,7 @@ Vragolan	Vragolani	0	0	0	0	0	0	50	50	50	15	8	4	5	2	3	1	2	0	0	20	50		0
 Ðavolak	Ðavolci	0	0	0	0	0	0	60	60	60	15	8	4	7	4	4	1	2	0	0	20	30	Magic channel.	0
 Paklenjak	Paklenjaci	0	0	0	0	0	0	125	145	159	8	0	13	4	6	4	2	4	12	0	16	30		SHOOTING_ARMY
 Ognjeni paklenjak	Ognjeni paklenjaci	0	0	0	0	0	0	175	210	240	8	0	13	6	7	4	2	4	24	0	16	25	Fireball attack.	SHOOTING_ARMY
-Hadski gonic	Hadski gonici	0	0	0	0	0	0	200	275	357	5	3	25	7	10	6	2	7	0	0	12	25		DOUBLE_WIDE | FLYING_ARMY
+Hadski goniè	Hadski gonièi	0	0	0	0	0	0	200	275	357	5	3	25	7	10	6	2	7	0	0	12	25		DOUBLE_WIDE | FLYING_ARMY
 Kerber	Kerberi	0	0	0	0	0	0	250	308	392	5	3	25	8	10	8	2	7	0	0	12	20	"3-headed attack.
 Enemies cannot retaliate."	DOUBLE_WIDE | FLYING_ARMY
 Vukojarac	Vukojarci	0	0	0	0	0	0	250	445	445	4	0	35	5	10	10	7	9	0	0	10	20		0
@@ -70,7 +70,7 @@ a dead ally."	0
 Zloduh	Zlodusi	0	0	0	0	0	0	900	1413	1670	2	0	90	9	16	12	16	24	0	0	5	12	Immune to fire.  Hates Genies.	0
 Šejtan	Šejtani	0	0	0	0	0	0	1100	1584	1848	2	0	90	13	16	14	16	24	0	0	5	10	Fire shield.  Immune to fire.  Hates Genies.	0
 Vrag	Vragovi	0	1	0	0	0	0	2700	3759	5101	1	0	160	11	19	21	30	40	0	0	4	10	-1 enemy luck. No enemy retaliation. Hates Angels.	FLYING_ARMY | KING_2
-Necastivi	Necastivi	0	2	0	0	0	0	4500	5243	7115	1	0	200	17	26	28	30	40	0	0	3	8	-1 enemy luck. No enemy retaliation. Hates Angels.	FLYING_ARMY | KING_2
+Neèastivi	Neèastivi	0	2	0	0	0	0	4500	5243	7115	1	0	200	17	26	28	30	40	0	0	3	8	-1 enemy luck. No enemy retaliation. Hates Angels.	FLYING_ARMY | KING_2
 																								
 																								
 																								
@@ -119,11 +119,11 @@ Crni zmaj	Crni zmajevi	0	0	0	2	0	0	4000	6783	8721	1	0	300	15	25	25	40	50	0	0	3	8
 Goblin	Goblini	0	0	0	0	0	0	40	60	60	15	8	5	5	4	2	1	2	0	0	20	50		0
 Hobgoblin	Hobgoblini	0	0	0	0	0	0	50	65	78	15	8	5	7	5	3	1	2	0	0	20	30		0
 Kurjak	Kurjaci	0	0	0	0	0	0	100	130	130	9	0	10	6	7	5	2	4	0	0	16	30		DOUBLE_WIDE
-Kurjak osvajac	Kurjaci osvajaci	0	0	0	0	0	0	140	174	203	9	0	10	8	8	5	3	4	0	0	16	25	Strikes twice	DOUBLE_WIDE
+Kurjak osvajaè	Kurjaci osvajaèi	0	0	0	0	0	0	140	174	203	9	0	10	8	8	5	3	4	0	0	16	25	Strikes twice	DOUBLE_WIDE
 Ork	Orkovi	0	0	0	0	0	0	150	175	192	7	0	15	4	8	4	2	5	12	0	12	25		SHOOTING_ARMY
 Ork poglavar	Orkovi poglavari	0	0	0	0	0	0	165	200	240	7	0	20	5	8	4	2	5	24	0	12	20		SHOOTING_ARMY
 Gorostas	Gorostasi	0	0	0	0	0	0	300	520	416	4	0	40	4	13	7	6	12	0	0	10	20		0
-Gorostas vrac	Gorostasi vracevi	0	0	0	0	0	0	400	672	672	4	0	60	5	13	7	6	12	0	3	10	16	Spellcaster: Bloodlust.	0
+Gorostas vraè	Gorostasi vraèevi	0	0	0	0	0	0	400	672	672	4	0	60	5	13	7	6	12	0	3	10	16	Spellcaster: Bloodlust.	0
 Ruh ptica	Ruh ptice	0	0	0	0	0	0	600	790	1027	3	0	60	7	13	11	11	15	0	0	8	16		FLYING_ARMY | DOUBLE_WIDE
 Gromovita ptica	Gromovite ptice	0	0	0	0	0	0	700	869	1106	3	0	60	11	13	11	11	15	0	0	8	12	Lightning strike.	FLYING_ARMY | DOUBLE_WIDE
 Kiklop	Kiklopi	0	0	0	0	0	0	750	1055	1266	2	0	70	6	15	12	16	20	16	0	5	12	Attacks siege walls.	SHOOTING_ARMY | CATAPULT
@@ -156,8 +156,8 @@ Vatrena stihija	Vatrene stihije	0	0	0	0	0	0	350	345	345	5	0	35	6	10	8	4	6	0	0	16
 Vulnerable to ice."	0
 Vodena stihija	Vodene stihije	0	0	0	0	0	0	300	315	315	6	0	30	5	8	10	3	7	0	0	12	25	"Immune to ice.
 Vulnerable to fire."	0
-Zlatni covek	Zlatni ljudi	0	0	0	0	0	0	500	600	600	3	0	50	5	11	12	8	10	0	0	10	16	Damage from spells reduced 85%.	0
-Kristalni covek	Kristalni ljudi	0	0	0	0	0	0	750	775	775	2	0	60	5	13	12	10	14	0	0	8	12	Damage from spells reduced 95%.	0
+Zlatni èovek	Zlatni ljudi	0	0	0	0	0	0	500	600	600	3	0	50	5	11	12	8	10	0	0	10	16	Damage from spells reduced 85%.	0
+Kristalni èovek	Kristalni ljudi	0	0	0	0	0	0	750	775	775	2	0	60	5	13	12	10	14	0	0	8	12	Damage from spells reduced 95%.	0
 																								
 																								
 																								
@@ -187,7 +187,7 @@ Group spell casters."	SHOOTING_ARMY | const_no_melee_penalty
 Sharpshooter	Sharpshooters	0	0	0	0	0	0	400	415	585	4	0	15	9	12	10	8	10	32	0	5	12	No Range or Barrier penalties.	SHOOTING_ARMY
 Halfling	Halflings	0	0	0	0	0	0	40	60	75	15	0	4	5	4	2	1	3	24	0	20	50	Positive luck.	SHOOTING_ARMY
 Peasant	Peasants	0	0	0	0	0	0	10	15	15	25	0	1	3	1	1	1	1	0	0	20	50		
-Jahac veprova	Jahaci veprova	0	0	0	0	0	0	150	145	145	8	0	15	6	6	5	2	3	0	0	16	30		
+Jahaè veprova	Jahaèi veprova	0	0	0	0	0	0	150	145	145	8	0	15	6	6	5	2	3	0	0	16	30		
 Mumija	Mumije	0	0	0	0	0	0	300	270	270	7	0	30	5	7	7	3	5	0	0	12	25	Curse.	
 Nomad	Nomadi	0	0	0	0	0	0	200	285	345	7	0	30	7	9	8	2	6	0	0	12	25	Sandwalkers.	
 Razbojnik	Razbojnici	0	0	0	0	0	0	100	135	135	8	0	10	6	8	3	2	4	0	0	16	30	Spying.	

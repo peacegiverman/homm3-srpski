@@ -15,14 +15,14 @@ Presveta kapija	The Portal of Glory allows you to recruit Arch Angels.
 Konjušnica	The Centaur Stables allow you to recruit Centaurs.
 Zemunica	The Dwarf Cottage allows you to recruit Dwarves.
 Ognjište	The Homestead allows you to recruit Wood Elves.
-Zacarani izvor	The Enchanted Spring allows you to recruit Pegasi.
+Zaèarani izvor	The Enchanted Spring allows you to recruit Pegasi.
 Šumski svod	The Dendroid Arches allow you to recruit Dendroid Guards.
 Rajski proplanak	The Unicorn Glade allows you to recruit Unicorns.
 Zmajev obron	The Dragon Cliffs allow you to recruit Green Dragons.
 Nap. Konjušnica	The Centaur Stables allow you to recruit Centaur Captains.
 Nap. Zemunica	The Dwarf Cottage allows you to recruit Battle Dwarves.
 Nap. Ognjište	The Homestead allows you to recruit Grand Elves.
-Nap. Zacarani izvor	The Enchanted Spring allows you to recruit Silver Pegasi.
+Nap. Zaèarani izvor	The Enchanted Spring allows you to recruit Silver Pegasi.
 Nap. Šumski svod	The Dendroid Arches allow you to recruit Dendroid Soldiers.
 Nap. Rajski proplanak	The Unicorn Glade allows you to recruit War Unicorns.
 Nap. Zmajev obron	The Dragon Cliffs allow you to recruit Gold Dragons.
@@ -70,32 +70,32 @@ Nap. Dvorana tame	The Hall of Darkness allows you to recruit Dread Knights.
 Nap. Zmajeva kosturnica	The Dragon Vault allows you to recruit Ghost Dragons.
 Lavorište	The Warren allows you to recruit Troglodytes.
 Leglo harpija	The Harpy Loft allows you to recruit Harpies.
-Sveocilište	The Pillar of Eyes allows you to recruit Beholders.
+Sveoèilište	The Pillar of Eyes allows you to recruit Beholders.
 Kapela utihnutih glasova	The Chapel of Stilled Voices allows you to recruit Medusas.
 Lavirint	The Labyrinth allows you to recruit Minotaurs.
 Mantikorin brlog	The Manticore Lair allows you to recruit Manticores.
-Zmajeva pecina	The Dragon Cave allows you to recruit Red Dragons.
+Zmajeva peæina	The Dragon Cave allows you to recruit Red Dragons.
 Nap. Lavorište	The Warren allows you to recruit Infernal Troglodytes.
 Nap. Leglo harpija	The Harpy Loft allows you to recruit Harpy Hags.
-Nap. Sveocilište	The Pillar of Eyes allows you to recruit Evil Eyes.
+Nap. Sveoèilište	The Pillar of Eyes allows you to recruit Evil Eyes.
 Nap. Kapela utihnutih glasova	The Chapel of Stilled Voices allows you to recruit Medusa Queens.
 Nap. Lavirint	The Labyrinth allows you to recruit Minotaur Kings.
 Nap. Mantikorin brlog	The Manticore Lair allows you to recruit Scorpicores.
-Nap. Zmajeva pecina	The Dragon Cave allows you to recruit Black Dragons.
+Nap. Zmajeva peæina	The Dragon Cave allows you to recruit Black Dragons.
 Goblinji tabor	The Goblin Barracks allow you to recruit Goblins.
 Leglo vukova	The Wolf Pen allows you to recruit Wolf Riders.
 Orkovski toranj	The Orc Tower allows you to recruit Orcs.
 Utvrda gorostasa	The Ogre Fort allows you to recruit Ogres.
-Pticja hrid	The Cliff Nest allows you to recruit Rocs.
+Ptièja hrid	The Cliff Nest allows you to recruit Rocs.
 Kiklopska jazbina	The Cyclops Cave allows you to recruit Cyclopses.
-Sablasna pecina	The Behemoth Lair allows you to recruit Behemoths.
+Sablasna peæina	The Behemoth Lair allows you to recruit Behemoths.
 Nap. Goblinji tabor	The Goblin Barracks allow you to recruit Hobgoblins.
 Nap. Leglo vukova	The Wolf Pen allows you to recruit Wolf Raiders.
 Nap. Orkovski toranj	The Orc Tower allows you to recruit Orc Chieftains.
 Nap. Utvrda gorostasa	The Ogre Fort allows you to recruit Ogre Magi.
-Nap. Pticja hrid	The Cliff Nest allows you to recruit Thunderbirds.
+Nap. Ptièja hrid	The Cliff Nest allows you to recruit Thunderbirds.
 Nap. Kiklopska jazbina	The Cyclops Cave allows you to recruit Cyclops Kings.
-Nap. Sablasna pecina	The Behemoth Lair allows you to recruit Ancient Behemoths.
+Nap. Sablasna peæina	The Behemoth Lair allows you to recruit Ancient Behemoths.
 Gnolograd	The Gnoll Hut allows you to recruit Gnolls.
 Jazbina zmijolikih	The Lizard Den allows you to recruit Lizardmen.
 Zmijsko leglo	The Serpent Fly Hive allows you to recruit Serpent Flies.
@@ -107,23 +107,23 @@ Nap. Gnolograd	The Gnoll Hut allows you to recruit Gnoll Marauders.
 Nap. Jazbina zmijolikih	The Lizard Den allows you to recruit Lizard Warriors.
 Nap. Zmijsko leglo	The Serpent Fly Hive allows you to recruit Dragon Flies.
 Nap. Jama baziliska	The Basilisk Pit allows you to recruit Greater Basilisks.
-Nap. Gorgon Lair	The Gorgon Lair allows you to recruit Mighty Gorgons.
-Nap. Wyvern Nest	The Wyvern Nest allows you to recruit Wyvern Monarchs.
-Nap. Hydra Pond	The Hydra Pond allows you to recruit Chaos Hydras.
-Carobni fenjer	The Magic Lantern allows you to recruit Pixies.
+Nap. Brlog Vodenog bika	The Gorgon Lair allows you to recruit Mighty Gorgons.
+Nap. Alinjak	The Wyvern Nest allows you to recruit Wyvern Monarchs.
+Nap. Aždajin rit	The Hydra Pond allows you to recruit Chaos Hydras.
+Èarobni fenjer	The Magic Lantern allows you to recruit Pixies.
 Vazdušni oltar	The Altar of Air allows you to recruit Air Elementals.
 Vodeni oltar	The Altar of Water allows you to recruit Water Elementals.
 Vatreni oltar	The Altar of Fire allows you to recruit Fire Elementals.
 Zemljani oltar	The Altar of Earth allows you to recruit Earth Elementals.
 Duhovni oltar	The Altar of Thought allows you to recruit Psychic Elementals.
-Usijana lomaca	The Pyre allows you to recruit Fire Birds.
-Nap. Carobni fenjer	The Magic Pool allows you to recruit Sprites.
+Usijana lomaèa	The Pyre allows you to recruit Fire Birds.
+Nap. Èarobni fenjer	The Magic Pool allows you to recruit Sprites.
 Nap. Vazdušni oltar	The Temple of Thunder allows you to recruit Storm Elementals.
 Nap. Vodeni oltar	The Temple of Ice allows you to recruit Ice Elementals.
 Nap. Vatreni oltar	The Temple of Energy allows you to recruit Energy Elementals.
 Nap. Zemljani oltar	The Temple of Magma allows you to recruit Magma Elementals.
 Nap. Duhovni oltar	The Temple of Magic allows you to recruit Magic Elementals.
-Nap. Usijana lomaca	The Funeral Pyre allows you to recruit Pheonixes .
+Nap. Usijana lomaèa	The Funeral Pyre allows you to recruit Pheonixes .
 Level 1 Creature Generator	Allows you to recruit Level 1 Creatures.
 Level 2 Creature Generator	Allows you to recruit Level 2 Creatures.
 Level 3 Creature Generator	Allows you to recruit Level 3 Creatures.
