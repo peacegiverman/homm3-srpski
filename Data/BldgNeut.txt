@@ -9,21 +9,21 @@ Zidine	The Fort provides your town with defensive walls.
 Citadela	"Including a 50% increase to base creature growth, the Citadel adds a keep, and other terrain obstacles, to a town's defenses."
 Zamak	"The Castle adds two arrow towers, fortifies your town's defenses, and doubles base creature growth."
 Mesna zajednica	The Village Hall allows you to purchase town structures and earns your kingdom 500 gold per day.
-Vecnica	The Town Hall allows you to purchase town structures and earns your kingdom 1000 gold per day.
+Veænica	The Town Hall allows you to purchase town structures and earns your kingdom 1000 gold per day.
 Skupština	The City Hall allows you to purchase town structures and earns your kingdom 2000 gold per day.
 Prestonica	The Capitol earns your kingdom 4000 gold per day.
 Pazar	"With the Marketplace, you can buy and sell resources (exchange rates increase with each Marketplace you own)."
 	
-Kovacnica	The Blacksmith provides your armies with %s.
+Kovaènica	The Blacksmith provides your armies with %s.
 Jarak	The Moat slows attacking units.  Any unit entering the moat must end its turn there and becomes more vulnerable to attack.
 Shipyard with ship	The Shipyard allows you to purchase ships.
-Kovacnica	The Blacksmith provides your armies with Ballistas.
-Kovacnica	The Blacksmith provides your armies with First Aid Tents.
-Kovacnica	The Blacksmith provides your armies with Ammo Carts.
-Kovacnica	The Blacksmith provides your armies with Ammo Carts.
-Kovacnica	The Blacksmith provides your armies with First Aid Tents.
-Kovacnica	The Blacksmith provides your armies with Ballistas.
-Kovacnica	The Blacksmith provides your armies with Ammo Carts.
-Kovacnica	The Blacksmith provides your armies with First Aid Tents.
-Kovacnica	The Blacksmith provides your armies with Ballistas.
-Kovacnica	The Blacksmith provides your armies with War Machines.
+Kovaènica	The Blacksmith provides your armies with Ballistas.
+Kovaènica	The Blacksmith provides your armies with First Aid Tents.
+Kovaènica	The Blacksmith provides your armies with Ammo Carts.
+Kovaènica	The Blacksmith provides your armies with Ammo Carts.
+Kovaènica	The Blacksmith provides your armies with First Aid Tents.
+Kovaènica	The Blacksmith provides your armies with Ballistas.
+Kovaènica	The Blacksmith provides your armies with Ammo Carts.
+Kovaènica	The Blacksmith provides your armies with First Aid Tents.
+Kovaènica	The Blacksmith provides your armies with Ballistas.
+Kovaènica	The Blacksmith provides your armies with War Machines.
