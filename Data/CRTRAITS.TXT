@@ -8,7 +8,7 @@ Grifon	Grifoni	0	0	0	0	0	0	200	324	351	7	3	25	6	8	8	3	6	0	0	12	25	Retaliates twi
 Kraljevski grifon	Kraljevski grifoni	0	0	0	0	0	0	240	364	448	7	3	25	9	9	9	3	6	0	0	12	20	Unlimited retaliations.	DOUBLE_WIDE|FLYING_ARMY
 Jurišnik	Jurišnici	0	0	0	0	0	0	300	445	445	4	0	35	5	10	12	6	9	0	0	10	20		0
 Krstaš	Krstaši	0	0	0	0	0	0	400	588	588	4	0	35	6	12	12	7	10	0	0	10	16	Strikes twice.	const_two_attacks
-Monah	Monasi	0	0	0	0	0	0	400	485	485	3	0	30	5	12	7	10	12	12	0	8	16		SHOOTING_ARMY
+Duhovnik	Duhovnici	0	0	0	0	0	0	400	485	485	3	0	30	5	12	7	10	12	12	0	8	16		SHOOTING_ARMY
 Zduhaæ	Zduhaæi	0	0	0	0	0	0	450	500	750	3	0	30	7	12	10	10	12	24	0	8	12	No melee penalty.	SHOOTING_ARMY | const_no_melee_penalty
 Delija	Delije	0	0	0	0	0	0	1000	1668	1946	2	0	100	7	15	15	15	25	0	0	5	12	Jousting bonus.	DOUBLE_WIDE | const_jousting
 Vitez	Vitezovi	0	0	0	0	0	0	1200	1800	2100	2	0	100	9	16	16	20	25	0	0	5	10	Jousting bonus.	DOUBLE_WIDE | const_jousting
