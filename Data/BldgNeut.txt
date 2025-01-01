@@ -2,7 +2,7 @@
 Škola magije (srednja)	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
 Škola magije (visoka)	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
 Škola magije (univerzitet)	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
-Akademija magije	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
+Škola magije (akademija)	Entering the Mage Guild will allow a visiting hero to learn the spells kept within.
 Konoba	The Tavern increases morale for troops defending the city.
 Brodogradilište	The Shipyard allows you to purchase ships.
 Zidine	The Fort provides your town with defensive walls.
