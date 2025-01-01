@@ -60,14 +60,14 @@ Grobnica duša	The Tomb of Souls allows you to recruit Wights.
 Ukleta avlija	The Estate allows you to recruit Vampires.
 Mauzolej	The Mausoleum allows you to recruit Liches.
 Dvorana tame	The Hall of Darkness allows you to recruit Black Knights.
-Zmajeva kosturnica	The Dragon Vault allows you to recruit Bone Dragons.
+Zmajeva humka	The Dragon Vault allows you to recruit Bone Dragons.
 Nap. Pogani hram	The Cursed Temple allows you to recruit Skeleton Warriors.
 Nap. Groblje	The Graveyard allows you to recruit Zombies.
 Nap. Grobnica duša	The Tomb of Souls allows you to recruit Wraiths.
 Nap. Ukleta avlija	The Estate allows you to recruit Vampire Lords.
 Nap. Mauzolej	The Mausoleum allows you to recruit Power Liches.
 Nap. Dvorana tame	The Hall of Darkness allows you to recruit Dread Knights.
-Nap. Zmajeva kosturnica	The Dragon Vault allows you to recruit Ghost Dragons.
+Nap. Zmajeva humka	The Dragon Vault allows you to recruit Ghost Dragons.
 Lavorište	The Warren allows you to recruit Troglodytes.
 Leglo harpija	The Harpy Loft allows you to recruit Harpies.
 Sveoèilište	The Pillar of Eyes allows you to recruit Beholders.
