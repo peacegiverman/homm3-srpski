@@ -12,6 +12,7 @@ Do sada su prevedeni:
 - 🏙 Tipovi gradova
 - 🎯 Nazivi skillova
 - 👒 Klase heroja
+- 🧙 Nazivi borbenih magija
 
 ## Kompatibilnost
 
