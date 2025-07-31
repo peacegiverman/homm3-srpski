@@ -3,7 +3,7 @@ Name	Abbreviated Name	Level	Earth	Water	Fire	Air	None	Basic	Advanced	Expert	Powe
 																																	
 Adventure Spells																																	
 																																	
-Summon Boat	Summon Boat	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Summon Boat}
+Prizovi brod	Prizovi brod	1	 	x	 	 	8	7	7	7	0	50	50	75	100	3	5	5	5	3	5	5	3	3	10	10	20	20	"{Summon Boat}
 
 Summons an existing, friendly, unoccupied boat from anywhere in the world to your location.
 
@@ -22,7 +22,7 @@ Chances for success are 75%.
 
 Summons an existing, friendly, unoccupied boat from anywhere in the world to your location.  If no boats exist, one is created.
 "	 ADV_SPELL
-Scuttle Boat	Scuttle Boat	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Scuttle Boat}
+Potopi brod	Potopi brod	2	 	x	 	 	8	6	6	6	0	50	50	75	100	6	4	4	4	4	4	4	4	4	1	1	1	1	"{Scuttle Boat}
 
 Destroys a boat you own.  Use with caution, the effects are permanent.
 
@@ -41,7 +41,7 @@ Chances for success are 75%.
 
 Destroys a boat you own.  Use with caution, the effects are permanent.
 "	 ADV_SPELL
-Visions	Visions	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Visions}
+Predskazanje	Predskazanje	2	x	x	x	x	4	2	2	2	0	1	1	2	3	2	2	2	4	2	2	2	2	2	1	1	1	1	"{Visions}
 
 Gives you a basic idea of the strength of an opposing army, hero, or garrison.
 "	"{Basic Visions}
@@ -67,7 +67,7 @@ Reveals the location of all resources and mines to the caster.
 
 Reveals the location of all resources and mines and reveals all terrain to the caster.
 "	 ADV_SPELL
-Disguise	Disguise	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Disguise}
+Krinka	Krinka	2	 	 	 	x	4	2	2	2	0	0	0	0	0	2	2	2	4	2	2	2	0	2	1	1	1	1	"{Disguise}
 
 Gives false information to an enemy attempting to view your hero.
 "	"{Basic Disguise}
@@ -93,7 +93,7 @@ Reveals the location of all unclaimed artifacts, plus enemy heroes to the caster
 
 Reveals the location of all unclaimed artifacts, plus enemy heroes and towns to the caster.
 "	 ADV_SPELL
-Fly	Fly	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Fly}
+Let	Let	5	 	 	 	x	20	15	15	15	0	60	60	80	100	0	16	16	16	16	12	0	0	13	30	30	40	50	"{Fly}
 
 Allows your army to use part of its movement to fly over obstacles.  You must land at the end of the turn.
 "	"{Basic Fly}
