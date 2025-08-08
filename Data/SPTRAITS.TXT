@@ -54,7 +54,7 @@ Gives you a basic idea of the strength of an opposing garrison.  In the case of 
 
 Gives you exact numbers of wandering monsters and tells you if they would be willing to join your hero.  Allows you to view a nearby enemy hero's primary skill statistics, creature type and quantity, as if the hero was part of your kingdom, as well as a nearby town's statistics, garrison creatures and quantity.
 "	 ADV_SPELL
-View Earth	View Earth	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{View earth}
+Zemljovid	Zemljovid	1	x				2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{View earth}
 
 Reveals the location of all resources to the caster.
 "	"{Basic View Earth}
@@ -80,7 +80,7 @@ Makes all units in your army look like your most powerful unit to enemies trying
 
 Makes all units in your army look like the most powerful unit affiliated to your hero type to enemies trying to view your hero.  Numbers in each group appear as zero.
 "	 ADV_SPELL
-View Air	View Air	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{View Air}
+Nebovid	Nebovid	1				x	2	1	1	1	0	0	0	0	0	3	3	3	3	3	3	3	3	3	1	1	1	1	"{View Air}
 
 Reveals the location of all unclaimed artifacts to the caster.
 "	"{Basic View Air}
@@ -119,7 +119,7 @@ Allows your army to use most of its movement to walk across bodies of water.  Yo
 
 Allows your army to use up to all of its movement to walk across bodies of water.  You must end your movement on dry land.
 "	 ADV_SPELL
-Dimension Door	Dimension Door	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Dimension Door}
+Dimenzioni prolaz	Dimenzioni prolaz	5	 	 	 	x	25	20	20	20	0	1	2	3	4	0	20	14	16	16	16	0	0	13	30	30	40	50	"{Dimension Door}
 
 Once per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
 "	"{Basic Dimension Door}
@@ -132,7 +132,7 @@ Three times per day, you may teleport your hero to a visible, unoccupied locatio
 
 Four times per day, you may teleport your hero to a visible, unoccupied location on the adventure map.
 "	 ADV_SPELL
-Town Portal	Town Portal	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Town Portal}
+Vrata grada	Vrata grada	4	x	 	 	 	16	12	12	12	0	0	0	0	0	10	10	10	10	10	10	0	0	10	5	5	70	70	"{Town Portal}
 
 Teleports your hero to the nearest friendly town.  The town must be unoccupied.
 "	"{Basic Town Portal}
@@ -553,7 +553,7 @@ Protects the selected unit all but the most powerful spells.
 
 Protects the selected unit from all spells.
 "	 COMBAT_SPELL|CREATURE_TARGET
-Rasèaranje	Rasèaranje	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Dispel}
+Rašèaranje	Rašèaranje	1	 	x	 	 	5	4	4	4	0	0	0	0	0	10	10	10	10	10	10	10	10	10	3	3	3	3	"{Dispel}
 
 Removes all spell effects from a friendly creature.
 "	"{Basic Dispel}
